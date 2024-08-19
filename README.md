@@ -27,6 +27,8 @@ Observation: The promotion analysis reveals that 10.20% of women were promoted d
 
 ## **Performance Analysis**
 
+![performance analysis](images/Screenshot_20240819_051413.png)
+
 Observation: The performance analysis shows that the average performance ratings for men and women are almost identical, with men averaging 2.40 and women 2.39. This indicates that performance evaluations are conducted fairly and without significant gender bias.
 
 **Insight:** The nearly equal performance ratings between genders demonstrate that the organization is successfully maintaining an unbiased performance evaluation process.
