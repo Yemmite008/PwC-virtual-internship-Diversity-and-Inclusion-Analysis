@@ -6,6 +6,8 @@ This report provides an in-depth analysis of diversity and inclusion metrics wit
 
 ## Hiring Analysis
 
+![Hiring](images/Screenshot_20240819_051317.png)
+
 **Observation:** The hiring analysis shows a fairly balanced gender distribution among new hires, with 48.48% being men and 51.52% being women. This indicates that the organization is making significant strides toward gender diversity during the hiring process.
 
 **Insight**: The slightly higher percentage of female hires suggests a positive trend towards achieving gender balance in the workforce.
