@@ -17,6 +17,8 @@ This report provides an in-depth analysis of diversity and inclusion metrics wit
 
 ## **Promotion Analysis**
 
+![promotion analysis](images/Screenshot_20240819_051338.png)
+
 Observation: The promotion analysis reveals that 10.20% of women were promoted during FY21, compared to 8.78% of men. Overall, 11.19% of employees received promotions, indicating a slightly higher promotion rate for women.
 
 **Insight:** This reflects an equitable approach to career advancement, where women are being recognized and promoted at slightly higher rates than men, contributing to gender diversity at higher organizational levels.
