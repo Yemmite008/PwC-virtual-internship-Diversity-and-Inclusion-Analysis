@@ -37,6 +37,8 @@ Observation: The performance analysis shows that the average performance ratings
 
 ## **Turnover Analysis**
 
+![turnover analysis](images/Screenshot_20240819_051441.png)
+
 **Observation:** The turnover analysis indicates a higher overall turnover rate of 18.7%, with 26 male and 21 female employees leaving the organization in FY20. The number of men leaving the organization slightly outpaces that of women.
 
 **Insight:** The higher turnover rate among male employees suggests potential underlying issues that may be contributing to dissatisfaction or disengagement among this group.
